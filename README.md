@@ -1,0 +1,2 @@
+# Inline Monitoring Attribute Grammar in JastAdd (IMAGJA)
+Attribute Grammars have been powerful and the most widely applied formalism in language processing in a wide variety of application domains. Inline Monitoring Attribute Grammar (IMAG) is an extension of AGs providing a framework with the ability to specify programming languages with the innate power of security policy enforcement at runtime for written programs in specified languages. In this document, we provide an applied example of IMAG in JastAdd for specification and dynamic enforcement of security policies.
